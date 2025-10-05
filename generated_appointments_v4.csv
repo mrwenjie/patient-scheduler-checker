@@ -1,0 +1,201 @@
+APPT_ID,PATIENT_MRN,APPT_TYPE,APPT_DTTM,SCHEDULER_ID
+APT-11298861,1072564,Lab,2025-10-20 08:00:00,scheduler_A_diligent
+APT-12976724,1072564,Chemo,2025-10-20 10:30:00,scheduler_A_diligent
+APT-95365116,1145712,Mammogram,2025-10-13 16:00:00,scheduler_B_hasty
+APT-96520948,1145712,Oncology Visit,2025-10-14 12:15:00,scheduler_B_hasty
+APT-80490861,1149652,Chemo,2025-10-20 14:00:00,scheduler_C_forgetful
+APT-21455105,1149652,Lab,2025-10-20 14:15:00,scheduler_C_forgetful
+APT-20899766,1333574,CT Simulation,2025-10-21 11:00:00,scheduler_C_forgetful
+APT-21147248,1333574,Radiation Therapy,2025-10-21 16:30:00,scheduler_C_forgetful
+APT-96425012,1374942,Lab,2025-10-20 11:30:00,scheduler_C_forgetful
+APT-79526224,1374942,Chemo,2025-10-21 15:00:00,scheduler_C_forgetful
+APT-60937379,1383795,Lab,2025-10-23 14:00:00,scheduler_A_diligent
+APT-61000408,1383795,Chemo,2025-10-23 14:00:00,scheduler_A_diligent
+APT-34897048,1650890,Mammogram,2025-10-21 13:00:00,scheduler_C_forgetful
+APT-62679649,1650890,Oncology Visit,2025-10-21 16:00:00,scheduler_C_forgetful
+APT-38316518,1792327,Chemo,2025-10-15 09:15:00,scheduler_A_diligent
+APT-73498079,1792327,Lab,2025-10-15 12:45:00,scheduler_A_diligent
+APT-48186816,1995862,Lab,2025-10-10 14:15:00,scheduler_C_forgetful
+APT-94838170,1995862,Chemo,2025-10-13 13:45:00,scheduler_C_forgetful
+APT-89257745,2241980,Mammogram,2025-10-14 16:45:00,scheduler_C_forgetful
+APT-18155165,2241980,Oncology Visit,2025-10-17 13:00:00,scheduler_C_forgetful
+APT-56757794,2340549,CT Simulation,2025-10-20 14:45:00,scheduler_A_diligent
+APT-60387576,2340549,Radiation Therapy,2025-10-21 08:45:00,scheduler_A_diligent
+APT-62238656,2611628,Lab,2025-10-08 10:00:00,scheduler_B_hasty
+APT-51389396,2611628,Chemo,2025-10-10 14:45:00,scheduler_B_hasty
+APT-58240042,2778184,Mammogram,2025-10-22 12:00:00,scheduler_C_forgetful
+APT-64892395,2778184,Oncology Visit,2025-10-23 16:30:00,scheduler_C_forgetful
+APT-63035735,2849870,Chemo,2025-10-21 12:15:00,scheduler_A_diligent
+APT-51214351,2849870,Lab,2025-10-21 13:30:00,scheduler_A_diligent
+APT-19820081,2916447,Mammogram,2025-10-13 15:00:00,scheduler_A_diligent
+APT-32297693,2916447,Oncology Visit,2025-10-15 14:15:00,scheduler_A_diligent
+APT-72975238,3008558,Lab,2025-10-09 10:45:00,scheduler_A_diligent
+APT-86145121,3008558,Chemo,2025-10-09 15:30:00,scheduler_A_diligent
+APT-97453946,3037337,Mammogram,2025-10-21 08:30:00,scheduler_A_diligent
+APT-32247333,3037337,Oncology Visit,2025-10-23 13:30:00,scheduler_A_diligent
+APT-98386343,3074337,CT Simulation,2025-10-13 10:30:00,scheduler_B_hasty
+APT-22068388,3074337,Radiation Therapy,2025-10-14 11:15:00,scheduler_B_hasty
+APT-35777876,3110977,Mammogram,2025-10-20 16:30:00,scheduler_B_hasty
+APT-46367584,3110977,Oncology Visit,2025-10-21 09:45:00,scheduler_B_hasty
+APT-85450354,3399564,CT Simulation,2025-10-13 11:30:00,scheduler_C_forgetful
+APT-28019351,3399564,Radiation Therapy,2025-10-14 14:30:00,scheduler_C_forgetful
+APT-91042570,3445916,CT Simulation,2025-10-17 12:15:00,scheduler_A_diligent
+APT-74103919,3445916,Radiation Therapy,2025-10-20 11:30:00,scheduler_A_diligent
+APT-69552530,3446300,CT Simulation,2025-10-06 14:30:00,scheduler_A_diligent
+APT-95139097,3446300,Radiation Therapy,2025-10-07 13:00:00,scheduler_A_diligent
+APT-38475598,3537207,Chemo,2025-10-07 12:15:00,scheduler_A_diligent
+APT-13625173,3537207,Lab,2025-10-07 15:15:00,scheduler_A_diligent
+APT-19605849,3631696,Mammogram,2025-10-13 16:00:00,scheduler_A_diligent
+APT-77025494,3631696,Oncology Visit,2025-10-15 16:15:00,scheduler_A_diligent
+APT-60565908,3636722,Chemo,2025-10-23 10:45:00,scheduler_A_diligent
+APT-82852313,3636722,Lab,2025-10-23 13:00:00,scheduler_A_diligent
+APT-45119507,3699376,CT Simulation,2025-10-21 13:30:00,scheduler_A_diligent
+APT-48149034,3699376,Radiation Therapy,2025-10-22 12:30:00,scheduler_A_diligent
+APT-85609951,3802353,CT Simulation,2025-10-06 12:45:00,scheduler_B_hasty
+APT-37631024,3802353,Radiation Therapy,2025-10-07 08:00:00,scheduler_B_hasty
+APT-35485498,3860048,Mammogram,2025-10-21 09:00:00,scheduler_A_diligent
+APT-67441984,3860048,Oncology Visit,2025-10-23 11:30:00,scheduler_A_diligent
+APT-30808580,3903248,Mammogram,2025-10-09 13:30:00,scheduler_B_hasty
+APT-58477309,3903248,Oncology Visit,2025-10-13 09:15:00,scheduler_B_hasty
+APT-35925240,3997981,Mammogram,2025-10-22 10:45:00,scheduler_A_diligent
+APT-10235812,3997981,Oncology Visit,2025-10-24 14:00:00,scheduler_A_diligent
+APT-12692634,4048589,Mammogram,2025-10-13 14:45:00,scheduler_C_forgetful
+APT-66974622,4048589,Oncology Visit,2025-10-13 15:15:00,scheduler_C_forgetful
+APT-76351709,4315176,Lab,2025-10-13 10:15:00,scheduler_C_forgetful
+APT-24954986,4315176,Chemo,2025-10-15 13:45:00,scheduler_C_forgetful
+APT-72685815,4369028,CT Simulation,2025-10-13 13:00:00,scheduler_C_forgetful
+APT-69787208,4369028,Radiation Therapy,2025-10-15 10:45:00,scheduler_C_forgetful
+APT-98682904,4372099,Chemo,2025-10-14 08:30:00,scheduler_A_diligent
+APT-28136185,4372099,Lab,2025-10-14 11:45:00,scheduler_A_diligent
+APT-47204336,4402391,Chemo,2025-10-13 09:30:00,scheduler_A_diligent
+APT-95687724,4402391,Lab,2025-10-13 11:15:00,scheduler_A_diligent
+APT-62269509,4418762,Lab,2025-10-13 14:15:00,scheduler_C_forgetful
+APT-59954240,4418762,Chemo,2025-10-15 14:15:00,scheduler_C_forgetful
+APT-35618960,4441559,CT Simulation,2025-10-09 08:30:00,scheduler_A_diligent
+APT-60026959,4441559,Radiation Therapy,2025-10-10 09:00:00,scheduler_A_diligent
+APT-83366416,4546728,CT Simulation,2025-10-13 14:30:00,scheduler_B_hasty
+APT-88243644,4546728,Radiation Therapy,2025-10-14 13:00:00,scheduler_B_hasty
+APT-76989658,5067663,Lab,2025-10-13 12:30:00,scheduler_B_hasty
+APT-40224463,5067663,Chemo,2025-10-15 11:30:00,scheduler_B_hasty
+APT-76057428,5097633,Mammogram,2025-10-20 09:45:00,scheduler_C_forgetful
+APT-27560911,5097633,Oncology Visit,2025-10-23 16:00:00,scheduler_C_forgetful
+APT-13127350,5167165,Lab,2025-10-20 10:15:00,scheduler_B_hasty
+APT-17222432,5167165,Chemo,2025-10-22 09:00:00,scheduler_B_hasty
+APT-66003145,5489352,Mammogram,2025-10-23 10:45:00,scheduler_A_diligent
+APT-93202363,5489352,Oncology Visit,2025-10-27 09:00:00,scheduler_A_diligent
+APT-22671918,5550629,Chemo,2025-10-10 11:15:00,scheduler_A_diligent
+APT-69777342,5550629,Lab,2025-10-10 14:30:00,scheduler_A_diligent
+APT-90494129,5701148,CT Simulation,2025-10-06 13:45:00,scheduler_C_forgetful
+APT-86523627,5701148,Radiation Therapy,2025-10-07 10:00:00,scheduler_C_forgetful
+APT-73379394,5764171,CT Simulation,2025-10-20 11:45:00,scheduler_C_forgetful
+APT-15737009,5764171,Radiation Therapy,2025-10-21 08:30:00,scheduler_C_forgetful
+APT-92842790,5785167,Lab,2025-10-21 14:45:00,scheduler_A_diligent
+APT-89439817,5785167,Chemo,2025-10-21 16:15:00,scheduler_A_diligent
+APT-47845010,5838949,Radiation Therapy,2025-10-08 13:15:00,scheduler_C_forgetful
+APT-35845986,5838949,CT Simulation,2025-10-08 16:00:00,scheduler_C_forgetful
+APT-67783289,5855611,Radiation Therapy,2025-10-20 09:30:00,scheduler_C_forgetful
+APT-27190280,5855611,CT Simulation,2025-10-20 11:15:00,scheduler_C_forgetful
+APT-62083868,5883773,Mammogram,2025-10-06 16:00:00,scheduler_C_forgetful
+APT-29794504,5883773,Oncology Visit,2025-10-07 09:45:00,scheduler_C_forgetful
+APT-82176239,5958547,CT Simulation,2025-10-13 13:00:00,scheduler_A_diligent
+APT-78691797,5958547,Radiation Therapy,2025-10-14 14:30:00,scheduler_A_diligent
+APT-62539564,6069323,CT Simulation,2025-10-13 08:30:00,scheduler_B_hasty
+APT-56757387,6069323,Radiation Therapy,2025-10-16 09:30:00,scheduler_B_hasty
+APT-52487219,6075528,Chemo,2025-10-15 09:30:00,scheduler_A_diligent
+APT-60792687,6075528,Lab,2025-10-15 14:15:00,scheduler_A_diligent
+APT-32005658,6080791,Mammogram,2025-10-09 12:15:00,scheduler_A_diligent
+APT-93808581,6080791,Oncology Visit,2025-10-13 14:30:00,scheduler_A_diligent
+APT-66320901,6163221,Mammogram,2025-10-20 16:00:00,scheduler_B_hasty
+APT-56620078,6163221,Oncology Visit,2025-10-22 11:45:00,scheduler_B_hasty
+APT-29045816,6284236,Mammogram,2025-10-06 13:00:00,scheduler_B_hasty
+APT-62571232,6284236,Oncology Visit,2025-10-08 09:30:00,scheduler_B_hasty
+APT-31603347,6480743,CT Simulation,2025-10-23 11:30:00,scheduler_B_hasty
+APT-66883057,6480743,Radiation Therapy,2025-10-24 11:00:00,scheduler_B_hasty
+APT-37183985,6497777,Lab,2025-10-16 14:45:00,scheduler_C_forgetful
+APT-44883023,6497777,Chemo,2025-10-20 10:30:00,scheduler_C_forgetful
+APT-79731319,6524626,CT Simulation,2025-10-20 14:00:00,scheduler_A_diligent
+APT-46319378,6524626,Radiation Therapy,2025-10-21 15:00:00,scheduler_A_diligent
+APT-98901250,6592390,CT Simulation,2025-10-20 14:45:00,scheduler_B_hasty
+APT-94372559,6592390,Radiation Therapy,2025-10-23 08:15:00,scheduler_B_hasty
+APT-82665791,6874910,Mammogram,2025-10-15 08:15:00,scheduler_B_hasty
+APT-48218145,6874910,Oncology Visit,2025-10-20 12:00:00,scheduler_B_hasty
+APT-27982808,6914434,CT Simulation,2025-10-10 12:45:00,scheduler_C_forgetful
+APT-91931138,6914434,Radiation Therapy,2025-10-13 08:00:00,scheduler_C_forgetful
+APT-91325081,6942572,CT Simulation,2025-10-20 15:00:00,scheduler_A_diligent
+APT-52690757,6942572,Radiation Therapy,2025-10-21 13:15:00,scheduler_A_diligent
+APT-10975779,7011936,Mammogram,2025-10-20 16:00:00,scheduler_C_forgetful
+APT-18748991,7011936,Oncology Visit,2025-10-22 13:45:00,scheduler_C_forgetful
+APT-25549174,7026461,CT Simulation,2025-10-20 15:45:00,scheduler_C_forgetful
+APT-54518866,7026461,Radiation Therapy,2025-10-22 16:00:00,scheduler_C_forgetful
+APT-12974859,7124457,Mammogram,2025-10-21 12:45:00,scheduler_C_forgetful
+APT-39746873,7124457,Oncology Visit,2025-10-21 13:00:00,scheduler_C_forgetful
+APT-58412214,7155633,Lab,2025-10-10 08:00:00,scheduler_A_diligent
+APT-74747503,7155633,Chemo,2025-10-10 08:45:00,scheduler_A_diligent
+APT-75449233,7191811,CT Simulation,2025-10-13 12:15:00,scheduler_B_hasty
+APT-32751441,7191811,Radiation Therapy,2025-10-14 08:00:00,scheduler_B_hasty
+APT-28019637,7214609,Chemo,2025-10-10 12:00:00,scheduler_A_diligent
+APT-74178222,7214609,Lab,2025-10-10 16:45:00,scheduler_A_diligent
+APT-39842538,7359628,Mammogram,2025-10-06 14:45:00,scheduler_A_diligent
+APT-66985074,7359628,Oncology Visit,2025-10-08 14:00:00,scheduler_A_diligent
+APT-53634745,7441339,CT Simulation,2025-10-20 16:00:00,scheduler_C_forgetful
+APT-64648035,7441339,Radiation Therapy,2025-10-23 08:15:00,scheduler_C_forgetful
+APT-12802762,7468478,Mammogram,2025-10-21 14:30:00,scheduler_A_diligent
+APT-13223411,7468478,Oncology Visit,2025-10-23 16:00:00,scheduler_A_diligent
+APT-80598912,7587061,Lab,2025-10-13 08:00:00,scheduler_A_diligent
+APT-74160044,7587061,Chemo,2025-10-13 15:00:00,scheduler_A_diligent
+APT-82433690,7877200,CT Simulation,2025-10-21 08:00:00,scheduler_B_hasty
+APT-79981766,7877200,Radiation Therapy,2025-10-23 09:00:00,scheduler_B_hasty
+APT-86620365,8014445,Lab,2025-10-15 14:45:00,scheduler_B_hasty
+APT-94164811,8014445,Chemo,2025-10-20 15:30:00,scheduler_B_hasty
+APT-95142354,8240954,Lab,2025-10-14 14:45:00,scheduler_A_diligent
+APT-82885452,8240954,Chemo,2025-10-14 16:45:00,scheduler_A_diligent
+APT-92508055,8252172,CT Simulation,2025-10-16 15:00:00,scheduler_A_diligent
+APT-45536565,8252172,Radiation Therapy,2025-10-17 10:00:00,scheduler_A_diligent
+APT-59118030,8261937,CT Simulation,2025-10-23 14:30:00,scheduler_C_forgetful
+APT-53527196,8261937,Radiation Therapy,2025-10-24 08:15:00,scheduler_C_forgetful
+APT-63694607,8414263,CT Simulation,2025-10-13 11:30:00,scheduler_C_forgetful
+APT-97677601,8414263,Radiation Therapy,2025-10-15 15:00:00,scheduler_C_forgetful
+APT-77296163,8470148,Radiation Therapy,2025-10-20 09:00:00,scheduler_C_forgetful
+APT-35836456,8470148,CT Simulation,2025-10-20 16:45:00,scheduler_C_forgetful
+APT-97783494,8524542,CT Simulation,2025-10-20 11:30:00,scheduler_A_diligent
+APT-82246140,8524542,Radiation Therapy,2025-10-21 12:45:00,scheduler_A_diligent
+APT-27822965,8533393,CT Simulation,2025-10-20 09:00:00,scheduler_A_diligent
+APT-30583805,8533393,Radiation Therapy,2025-10-21 10:30:00,scheduler_A_diligent
+APT-79198188,8651441,Lab,2025-10-22 09:45:00,scheduler_B_hasty
+APT-99128355,8651441,Chemo,2025-10-27 09:45:00,scheduler_B_hasty
+APT-67049716,8686670,Lab,2025-10-06 12:30:00,scheduler_B_hasty
+APT-63934022,8686670,Chemo,2025-10-07 09:15:00,scheduler_B_hasty
+APT-26192415,8694685,CT Simulation,2025-10-23 09:00:00,scheduler_B_hasty
+APT-44658702,8694685,Radiation Therapy,2025-10-24 14:30:00,scheduler_B_hasty
+APT-79947325,8847556,Lab,2025-10-06 10:00:00,scheduler_A_diligent
+APT-88020043,8847556,Chemo,2025-10-06 16:30:00,scheduler_A_diligent
+APT-25059701,9037518,Mammogram,2025-10-20 14:30:00,scheduler_C_forgetful
+APT-36561990,9037518,Oncology Visit,2025-10-23 09:00:00,scheduler_C_forgetful
+APT-99966018,9044455,Chemo,2025-10-15 09:00:00,scheduler_A_diligent
+APT-57090628,9044455,Lab,2025-10-15 14:45:00,scheduler_A_diligent
+APT-72645896,9208704,Chemo,2025-10-14 14:00:00,scheduler_A_diligent
+APT-24389454,9208704,Lab,2025-10-14 14:45:00,scheduler_A_diligent
+APT-39572122,9316509,Radiation Therapy,2025-10-22 13:15:00,scheduler_C_forgetful
+APT-86200773,9316509,CT Simulation,2025-10-22 15:15:00,scheduler_C_forgetful
+APT-74318064,9392265,Oncology Visit,2025-10-17 16:00:00,scheduler_C_forgetful
+APT-44592772,9392265,Mammogram,2025-10-17 16:15:00,scheduler_C_forgetful
+APT-18174462,9408741,Mammogram,2025-10-13 14:45:00,scheduler_C_forgetful
+APT-16322859,9408741,Oncology Visit,2025-10-15 16:15:00,scheduler_C_forgetful
+APT-93856844,9412099,Oncology Visit,2025-10-09 11:30:00,scheduler_C_forgetful
+APT-38703381,9412099,Mammogram,2025-10-09 15:00:00,scheduler_C_forgetful
+APT-46075843,9485837,Mammogram,2025-10-22 14:00:00,scheduler_B_hasty
+APT-66866858,9485837,Oncology Visit,2025-10-27 15:30:00,scheduler_B_hasty
+APT-14734118,9571420,Lab,2025-10-20 12:00:00,scheduler_C_forgetful
+APT-28940566,9571420,Chemo,2025-10-23 12:45:00,scheduler_C_forgetful
+APT-55898275,9645614,Mammogram,2025-10-23 13:15:00,scheduler_A_diligent
+APT-35657292,9645614,Oncology Visit,2025-10-27 11:15:00,scheduler_A_diligent
+APT-78076299,9648648,Lab,2025-10-13 09:00:00,scheduler_C_forgetful
+APT-26705932,9648648,Chemo,2025-10-16 10:30:00,scheduler_C_forgetful
+APT-55950614,9658699,Oncology Visit,2025-10-13 09:30:00,scheduler_C_forgetful
+APT-59308377,9658699,Mammogram,2025-10-13 10:30:00,scheduler_C_forgetful
+APT-86143763,9776174,Mammogram,2025-10-22 16:30:00,scheduler_A_diligent
+APT-99580723,9776174,Oncology Visit,2025-10-24 10:45:00,scheduler_A_diligent
+APT-86347970,9784549,Lab,2025-10-13 15:00:00,scheduler_B_hasty
+APT-34101577,9784549,Chemo,2025-10-15 14:15:00,scheduler_B_hasty
+APT-28395013,9919251,Lab,2025-10-13 11:15:00,scheduler_C_forgetful
+APT-92561772,9919251,Chemo,2025-10-14 13:30:00,scheduler_C_forgetful

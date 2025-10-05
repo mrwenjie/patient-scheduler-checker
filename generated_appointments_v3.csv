@@ -1,0 +1,224 @@
+APPT_ID,PATIENT_MRN,APPT_TYPE,APPT_DTTM,SCHEDULER_ID
+135,1100813,Lab,2025-10-07 23:57:56.124562,scheduler_A_diligent
+136,1100813,Chemo,2025-10-08 23:57:56.124562,scheduler_A_diligent
+190,1257089,Lab,2025-10-08 23:57:56.124562,scheduler_A_diligent
+191,1257089,Chemo,2025-10-09 23:57:56.124562,scheduler_A_diligent
+72,1309992,CT Chest/Abdomen/Pelvis,2025-10-07 23:57:56.124562,scheduler_A_diligent
+73,1309992,Bone Scan,2025-10-08 23:57:56.124562,scheduler_A_diligent
+74,1309992,Oncology Visit,2025-10-09 23:57:56.124562,scheduler_A_diligent
+120,1338738,Lab,2025-10-08 23:57:56.124562,scheduler_B_hasty
+121,1338738,Chemo,2025-10-09 23:57:56.124562,scheduler_B_hasty
+61,1346449,CT Chest/Abdomen/Pelvis,2025-10-10 23:57:56.124562,scheduler_B_hasty
+62,1346449,Bone Scan,2025-10-13 23:57:56.124562,scheduler_B_hasty
+63,1346449,Oncology Visit,2025-10-14 23:57:56.124562,scheduler_B_hasty
+115,1429163,Chemo,2025-10-06 23:57:56.124562,scheduler_C_forgetful
+116,1429163,Lab,2025-10-07 23:57:56.124562,scheduler_C_forgetful
+113,1555098,Mammogram,2025-10-09 23:57:56.124562,scheduler_B_hasty
+114,1555098,Oncology Visit,2025-10-10 23:57:56.124562,scheduler_B_hasty
+23,1629601,Lab,2025-10-07 23:57:56.124562,scheduler_B_hasty
+24,1629601,Chemo,2025-10-08 23:57:56.124562,scheduler_B_hasty
+124,1659086,Lab,2025-10-09 23:57:56.124562,scheduler_B_hasty
+125,1659086,Chemo,2025-10-10 23:57:56.124562,scheduler_B_hasty
+27,1662046,CT Simulation,2025-10-06 23:57:56.124562,scheduler_B_hasty
+28,1662046,Radiation Therapy,2025-10-07 23:57:56.124562,scheduler_B_hasty
+57,1730491,Lab,2025-10-06 23:57:56.124562,scheduler_A_diligent
+58,1730491,Chemo,2025-10-07 23:57:56.124562,scheduler_A_diligent
+164,1868400,CT Chest/Abdomen/Pelvis,2025-10-06 23:57:56.124562,scheduler_B_hasty
+165,1868400,Bone Scan,2025-10-07 23:57:56.124562,scheduler_B_hasty
+166,1868400,Oncology Visit,2025-10-08 23:57:56.124562,scheduler_B_hasty
+137,1981036,CT Chest/Abdomen/Pelvis,2025-10-06 23:57:56.124562,scheduler_A_diligent
+138,1981036,Bone Scan,2025-10-07 23:57:56.124562,scheduler_A_diligent
+139,1981036,Oncology Visit,2025-10-08 23:57:56.124562,scheduler_A_diligent
+197,2010469,Lab,2025-10-10 23:57:56.124562,scheduler_A_diligent
+198,2010469,Chemo,2025-10-13 23:57:56.124562,scheduler_A_diligent
+84,2156215,Lab,2025-10-09 23:57:56.124562,scheduler_A_diligent
+85,2156215,Chemo,2025-10-10 23:57:56.124562,scheduler_A_diligent
+15,2156299,CT Chest/Abdomen/Pelvis,2025-10-09 23:57:56.124562,scheduler_B_hasty
+16,2156299,Bone Scan,2025-10-10 23:57:56.124562,scheduler_B_hasty
+17,2156299,Oncology Visit,2025-10-13 23:57:56.124562,scheduler_B_hasty
+169,2218924,Radiation Therapy,2025-10-10 23:57:56.124562,scheduler_C_forgetful
+170,2218924,CT Simulation,2025-10-13 23:57:56.124562,scheduler_C_forgetful
+181,2304625,Mammogram,2025-10-07 23:57:56.124562,scheduler_A_diligent
+182,2304625,Oncology Visit,2025-10-08 23:57:56.124562,scheduler_A_diligent
+133,2457243,CT Simulation,2025-10-06 23:57:56.124562,scheduler_B_hasty
+134,2457243,Radiation Therapy,2025-10-07 23:57:56.124562,scheduler_B_hasty
+129,2481719,Lab,2025-10-09 23:57:56.124562,scheduler_B_hasty
+130,2481719,Chemo,2025-10-10 23:57:56.124562,scheduler_B_hasty
+192,2623098,CT Chest/Abdomen/Pelvis,2025-10-13 23:57:56.124562,scheduler_B_hasty
+193,2623098,Bone Scan,2025-10-14 23:57:56.124562,scheduler_B_hasty
+194,2623098,Oncology Visit,2025-10-15 23:57:56.124562,scheduler_B_hasty
+109,2672299,Lab,2025-10-10 23:57:56.124562,scheduler_B_hasty
+110,2672299,Chemo,2025-10-13 23:57:56.124562,scheduler_B_hasty
+38,2747517,CT Simulation,2025-10-09 23:57:56.124562,scheduler_A_diligent
+39,2747517,Radiation Therapy,2025-10-10 23:57:56.124562,scheduler_A_diligent
+185,2759421,CT Chest/Abdomen/Pelvis,2025-10-06 23:57:56.124562,scheduler_B_hasty
+186,2759421,Bone Scan,2025-10-07 23:57:56.124562,scheduler_B_hasty
+187,2759421,Oncology Visit,2025-10-08 23:57:56.124562,scheduler_B_hasty
+80,2819708,Mammogram,2025-10-06 23:57:56.124562,scheduler_A_diligent
+81,2819708,Oncology Visit,2025-10-07 23:57:56.124562,scheduler_A_diligent
+78,2832222,Oncology Visit,2025-10-13 23:57:56.124562,scheduler_C_forgetful
+79,2832222,Mammogram,2025-10-14 23:57:56.124562,scheduler_C_forgetful
+177,2857253,Lab,2025-10-13 23:57:56.124562,scheduler_B_hasty
+178,2857253,Chemo,2025-10-14 23:57:56.124562,scheduler_B_hasty
+25,2920783,CT Simulation,2025-10-10 23:57:56.124562,scheduler_B_hasty
+26,2920783,Radiation Therapy,2025-10-13 23:57:56.124562,scheduler_B_hasty
+18,2941856,Lab,2025-10-10 23:57:56.124562,scheduler_B_hasty
+19,2941856,Chemo,2025-10-13 23:57:56.124562,scheduler_B_hasty
+45,2973617,CT Simulation,2025-10-06 23:57:56.124562,scheduler_A_diligent
+46,2973617,Radiation Therapy,2025-10-07 23:57:56.124562,scheduler_A_diligent
+103,3116470,Lab,2025-10-07 23:57:56.124562,scheduler_A_diligent
+104,3116470,Chemo,2025-10-08 23:57:56.124562,scheduler_A_diligent
+111,3173949,Mammogram,2025-10-07 23:57:56.124562,scheduler_B_hasty
+112,3173949,Oncology Visit,2025-10-08 23:57:56.124562,scheduler_B_hasty
+157,3230534,CT Simulation,2025-10-06 23:57:56.124562,scheduler_C_forgetful
+158,3230534,Radiation Therapy,2025-10-07 23:57:56.124562,scheduler_C_forgetful
+142,3231293,Radiation Therapy,2025-10-06 23:57:56.124562,scheduler_C_forgetful
+143,3231293,CT Simulation,2025-10-07 23:57:56.124562,scheduler_C_forgetful
+146,3262107,Mammogram,2025-10-06 23:57:56.124562,scheduler_C_forgetful
+147,3262107,Oncology Visit,2025-10-07 23:57:56.124562,scheduler_C_forgetful
+20,3367857,CT Chest/Abdomen/Pelvis,2025-10-06 23:57:56.124562,scheduler_C_forgetful
+21,3367857,Bone Scan,2025-10-07 23:57:56.124562,scheduler_C_forgetful
+22,3367857,Oncology Visit,2025-10-08 23:57:56.124562,scheduler_C_forgetful
+209,3628793,Lab,2025-10-07 23:57:56.124562,scheduler_B_hasty
+210,3628793,Chemo,2025-10-08 23:57:56.124562,scheduler_B_hasty
+152,3711031,CT Chest/Abdomen/Pelvis,2025-10-07 23:57:56.124562,scheduler_A_diligent
+153,3711031,Bone Scan,2025-10-08 23:57:56.124562,scheduler_A_diligent
+154,3711031,Oncology Visit,2025-10-09 23:57:56.124562,scheduler_A_diligent
+75,3916024,CT Chest/Abdomen/Pelvis,2025-10-06 23:57:56.124562,scheduler_B_hasty
+76,3916024,Bone Scan,2025-10-07 23:57:56.124562,scheduler_B_hasty
+77,3916024,Oncology Visit,2025-10-08 23:57:56.124562,scheduler_B_hasty
+222,3924710,Radiation Therapy,2025-10-06 23:57:56.124562,scheduler_C_forgetful
+223,3924710,CT Simulation,2025-10-07 23:57:56.124562,scheduler_C_forgetful
+68,4049759,Lab,2025-10-06 23:57:56.124562,scheduler_A_diligent
+69,4049759,Chemo,2025-10-07 23:57:56.124562,scheduler_A_diligent
+205,4053354,Lab,2025-10-08 23:57:56.124562,scheduler_C_forgetful
+206,4053354,Chemo,2025-10-09 23:57:56.124562,scheduler_C_forgetful
+4,4364578,Lab,2025-10-07 23:57:56.124562,scheduler_A_diligent
+5,4364578,Chemo,2025-10-08 23:57:56.124562,scheduler_A_diligent
+199,4442884,CT Simulation,2025-10-09 23:57:56.124562,scheduler_A_diligent
+200,4442884,Radiation Therapy,2025-10-10 23:57:56.124562,scheduler_A_diligent
+64,4456594,Lab,2025-10-10 23:57:56.124562,scheduler_A_diligent
+65,4456594,Chemo,2025-10-13 23:57:56.124562,scheduler_A_diligent
+117,4479488,CT Chest/Abdomen/Pelvis,2025-10-09 23:57:56.124562,scheduler_A_diligent
+118,4479488,Bone Scan,2025-10-10 23:57:56.124562,scheduler_A_diligent
+119,4479488,Oncology Visit,2025-10-13 23:57:56.124562,scheduler_A_diligent
+107,4504638,Mammogram,2025-10-09 23:57:56.124562,scheduler_A_diligent
+108,4504638,Oncology Visit,2025-10-10 23:57:56.124562,scheduler_A_diligent
+99,4659906,Mammogram,2025-10-07 23:57:56.124562,scheduler_A_diligent
+100,4659906,Oncology Visit,2025-10-08 23:57:56.124562,scheduler_A_diligent
+144,4676188,Mammogram,2025-10-10 23:57:56.124562,scheduler_C_forgetful
+145,4676188,Oncology Visit,2025-10-13 23:57:56.124562,scheduler_C_forgetful
+148,4709101,Mammogram,2025-10-07 23:57:56.124562,scheduler_B_hasty
+149,4709101,Oncology Visit,2025-10-08 23:57:56.124562,scheduler_B_hasty
+219,4747594,CT Chest/Abdomen/Pelvis,2025-10-10 23:57:56.124562,scheduler_A_diligent
+220,4747594,Bone Scan,2025-10-13 23:57:56.124562,scheduler_A_diligent
+221,4747594,Oncology Visit,2025-10-14 23:57:56.124562,scheduler_A_diligent
+55,4829430,Radiation Therapy,2025-10-08 23:57:56.124562,scheduler_C_forgetful
+56,4829430,CT Simulation,2025-10-09 23:57:56.124562,scheduler_C_forgetful
+162,4837455,Chemo,2025-10-07 23:57:56.124562,scheduler_C_forgetful
+163,4837455,Lab,2025-10-08 23:57:56.124562,scheduler_C_forgetful
+88,4837997,CT Simulation,2025-10-10 23:57:56.124562,scheduler_C_forgetful
+89,4837997,Radiation Therapy,2025-10-13 23:57:56.124562,scheduler_C_forgetful
+211,4861152,CT Chest/Abdomen/Pelvis,2025-10-13 23:57:56.124562,scheduler_A_diligent
+212,4861152,Bone Scan,2025-10-14 23:57:56.124562,scheduler_A_diligent
+213,4861152,Oncology Visit,2025-10-15 23:57:56.124562,scheduler_A_diligent
+175,5099972,Lab,2025-10-10 23:57:56.124562,scheduler_A_diligent
+176,5099972,Chemo,2025-10-13 23:57:56.124562,scheduler_A_diligent
+183,5280610,Mammogram,2025-10-09 23:57:56.124562,scheduler_B_hasty
+184,5280610,Oncology Visit,2025-10-10 23:57:56.124562,scheduler_B_hasty
+82,5286916,Mammogram,2025-10-10 23:57:56.124562,scheduler_B_hasty
+83,5286916,Oncology Visit,2025-10-13 23:57:56.124562,scheduler_B_hasty
+159,5382920,Oncology Visit,2025-10-13 23:57:56.124562,scheduler_C_forgetful
+160,5382920,Bone Scan,2025-10-14 23:57:56.124562,scheduler_C_forgetful
+161,5382920,CT Chest/Abdomen/Pelvis,2025-10-15 23:57:56.124562,scheduler_C_forgetful
+66,5519088,Chemo,2025-10-10 23:57:56.124562,scheduler_C_forgetful
+67,5519088,Lab,2025-10-13 23:57:56.124562,scheduler_C_forgetful
+207,5563501,Chemo,2025-10-13 23:57:56.124562,scheduler_C_forgetful
+208,5563501,Lab,2025-10-14 23:57:56.124562,scheduler_C_forgetful
+40,5919000,CT Chest/Abdomen/Pelvis,2025-10-06 23:57:56.124562,scheduler_B_hasty
+41,5919000,Bone Scan,2025-10-07 23:57:56.124562,scheduler_B_hasty
+42,5919000,Oncology Visit,2025-10-08 23:57:56.124562,scheduler_B_hasty
+150,5999016,Mammogram,2025-10-13 23:57:56.124562,scheduler_C_forgetful
+151,5999016,Oncology Visit,2025-10-14 23:57:56.124562,scheduler_C_forgetful
+59,6040543,CT Simulation,2025-10-09 23:57:56.124562,scheduler_C_forgetful
+60,6040543,Radiation Therapy,2025-10-10 23:57:56.124562,scheduler_C_forgetful
+179,6371353,Oncology Visit,2025-10-07 23:57:56.124562,scheduler_C_forgetful
+180,6371353,Mammogram,2025-10-08 23:57:56.124562,scheduler_C_forgetful
+217,6381072,Lab,2025-10-10 23:57:56.124562,scheduler_B_hasty
+218,6381072,Chemo,2025-10-13 23:57:56.124562,scheduler_B_hasty
+214,6447315,Oncology Visit,2025-10-09 23:57:56.124562,scheduler_C_forgetful
+215,6447315,Bone Scan,2025-10-10 23:57:56.124562,scheduler_C_forgetful
+216,6447315,CT Chest/Abdomen/Pelvis,2025-10-13 23:57:56.124562,scheduler_C_forgetful
+171,6532533,CT Simulation,2025-10-06 23:57:56.124562,scheduler_A_diligent
+172,6532533,Radiation Therapy,2025-10-07 23:57:56.124562,scheduler_A_diligent
+52,6891074,CT Chest/Abdomen/Pelvis,2025-10-08 23:57:56.124562,scheduler_B_hasty
+53,6891074,Bone Scan,2025-10-09 23:57:56.124562,scheduler_B_hasty
+54,6891074,Oncology Visit,2025-10-10 23:57:56.124562,scheduler_B_hasty
+94,7242236,Mammogram,2025-10-06 23:57:56.124562,scheduler_A_diligent
+95,7242236,Oncology Visit,2025-10-07 23:57:56.124562,scheduler_A_diligent
+1,7479438,CT Chest/Abdomen/Pelvis,2025-10-09 23:57:56.124562,scheduler_B_hasty
+2,7479438,Bone Scan,2025-10-10 23:57:56.124562,scheduler_B_hasty
+3,7479438,Oncology Visit,2025-10-13 23:57:56.124562,scheduler_B_hasty
+201,7646992,Chemo,2025-10-08 23:57:56.124562,scheduler_C_forgetful
+202,7646992,Lab,2025-10-09 23:57:56.124562,scheduler_C_forgetful
+11,7708493,Mammogram,2025-10-06 23:57:56.124562,scheduler_B_hasty
+12,7708493,Oncology Visit,2025-10-07 23:57:56.124562,scheduler_B_hasty
+29,7740676,CT Chest/Abdomen/Pelvis,2025-10-08 23:57:56.124562,scheduler_A_diligent
+30,7740676,Bone Scan,2025-10-09 23:57:56.124562,scheduler_A_diligent
+31,7740676,Oncology Visit,2025-10-10 23:57:56.124562,scheduler_A_diligent
+6,7791094,CT Chest/Abdomen/Pelvis,2025-10-06 23:57:56.124562,scheduler_B_hasty
+7,7791094,Bone Scan,2025-10-07 23:57:56.124562,scheduler_B_hasty
+8,7791094,Oncology Visit,2025-10-08 23:57:56.124562,scheduler_B_hasty
+47,7839752,CT Chest/Abdomen/Pelvis,2025-10-13 23:57:56.124562,scheduler_A_diligent
+48,7839752,Bone Scan,2025-10-14 23:57:56.124562,scheduler_A_diligent
+49,7839752,Oncology Visit,2025-10-15 23:57:56.124562,scheduler_A_diligent
+105,7881919,CT Simulation,2025-10-07 23:57:56.124562,scheduler_A_diligent
+106,7881919,Radiation Therapy,2025-10-08 23:57:56.124562,scheduler_A_diligent
+140,7916625,Lab,2025-10-10 23:57:56.124562,scheduler_A_diligent
+141,7916625,Chemo,2025-10-13 23:57:56.124562,scheduler_A_diligent
+173,8008167,CT Simulation,2025-10-07 23:57:56.124562,scheduler_B_hasty
+174,8008167,Radiation Therapy,2025-10-08 23:57:56.124562,scheduler_B_hasty
+101,8357965,Radiation Therapy,2025-10-09 23:57:56.124562,scheduler_C_forgetful
+102,8357965,CT Simulation,2025-10-10 23:57:56.124562,scheduler_C_forgetful
+122,8382398,Radiation Therapy,2025-10-06 23:57:56.124562,scheduler_C_forgetful
+123,8382398,CT Simulation,2025-10-07 23:57:56.124562,scheduler_C_forgetful
+34,8406413,Mammogram,2025-10-07 23:57:56.124562,scheduler_B_hasty
+35,8406413,Oncology Visit,2025-10-08 23:57:56.124562,scheduler_B_hasty
+155,8410934,CT Simulation,2025-10-10 23:57:56.124562,scheduler_B_hasty
+156,8410934,Radiation Therapy,2025-10-13 23:57:56.124562,scheduler_B_hasty
+50,8445020,Chemo,2025-10-06 23:57:56.124562,scheduler_C_forgetful
+51,8445020,Lab,2025-10-07 23:57:56.124562,scheduler_C_forgetful
+70,8628522,Lab,2025-10-09 23:57:56.124562,scheduler_B_hasty
+71,8628522,Chemo,2025-10-10 23:57:56.124562,scheduler_B_hasty
+90,8667898,Lab,2025-10-09 23:57:56.124562,scheduler_B_hasty
+91,8667898,Chemo,2025-10-10 23:57:56.124562,scheduler_B_hasty
+32,8785834,Mammogram,2025-10-06 23:57:56.124562,scheduler_A_diligent
+33,8785834,Oncology Visit,2025-10-07 23:57:56.124562,scheduler_A_diligent
+195,8884172,Lab,2025-10-06 23:57:56.124562,scheduler_A_diligent
+196,8884172,Chemo,2025-10-07 23:57:56.124562,scheduler_A_diligent
+92,8991112,Lab,2025-10-07 23:57:56.124562,scheduler_B_hasty
+93,8991112,Chemo,2025-10-08 23:57:56.124562,scheduler_B_hasty
+126,9133829,CT Chest/Abdomen/Pelvis,2025-10-06 23:57:56.124562,scheduler_C_forgetful
+127,9133829,Bone Scan,2025-10-07 23:57:56.124562,scheduler_C_forgetful
+128,9133829,Oncology Visit,2025-10-08 23:57:56.124562,scheduler_C_forgetful
+167,9233948,CT Simulation,2025-10-09 23:57:56.124562,scheduler_A_diligent
+168,9233948,Radiation Therapy,2025-10-10 23:57:56.124562,scheduler_A_diligent
+36,9268290,Lab,2025-10-06 23:57:56.124562,scheduler_B_hasty
+37,9268290,Chemo,2025-10-07 23:57:56.124562,scheduler_B_hasty
+13,9375176,Radiation Therapy,2025-10-10 23:57:56.124562,scheduler_C_forgetful
+14,9375176,CT Simulation,2025-10-13 23:57:56.124562,scheduler_C_forgetful
+9,9454335,Mammogram,2025-10-06 23:57:56.124562,scheduler_A_diligent
+10,9454335,Oncology Visit,2025-10-07 23:57:56.124562,scheduler_A_diligent
+96,9527739,CT Chest/Abdomen/Pelvis,2025-10-10 23:57:56.124562,scheduler_B_hasty
+97,9527739,Bone Scan,2025-10-13 23:57:56.124562,scheduler_B_hasty
+98,9527739,Oncology Visit,2025-10-14 23:57:56.124562,scheduler_B_hasty
+188,9555547,Mammogram,2025-10-07 23:57:56.124562,scheduler_C_forgetful
+189,9555547,Oncology Visit,2025-10-08 23:57:56.124562,scheduler_C_forgetful
+86,9714855,Mammogram,2025-10-06 23:57:56.124562,scheduler_B_hasty
+87,9714855,Oncology Visit,2025-10-07 23:57:56.124562,scheduler_B_hasty
+131,9746250,Mammogram,2025-10-07 23:57:56.124562,scheduler_A_diligent
+132,9746250,Oncology Visit,2025-10-08 23:57:56.124562,scheduler_A_diligent
+203,9851871,CT Simulation,2025-10-09 23:57:56.124562,scheduler_A_diligent
+204,9851871,Radiation Therapy,2025-10-10 23:57:56.124562,scheduler_A_diligent
+43,9999344,Lab,2025-10-08 23:57:56.124562,scheduler_C_forgetful
+44,9999344,Chemo,2025-10-09 23:57:56.124562,scheduler_C_forgetful

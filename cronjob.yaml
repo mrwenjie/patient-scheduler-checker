@@ -1,0 +1,20 @@
+apiVersion: batch/v1
+kind: CronJob
+metadata:
+  name: patient-schedule-checker
+spec:
+  # This schedule means "run at 6:00 AM every day"
+  # You can read it as: (minute hour day-of-month month day-of-week)
+  schedule: "0 6 * * *"
+  jobTemplate:
+    spec:
+      template:
+        spec:
+          containers:
+          - name: schedule-checker
+            # IMPORTANT: In a real scenario, this would be your company's private registry
+            # e.g., my-azure-registry.azurecr.io/scheduler-checker:v1.2
+            image: your-dockerhub-username/scheduler-checker:latest
+            # In a real system, you'd mount a volume to read data,
+            # but for this example, the container runs as-is.
+          restartPolicy: OnFailure
